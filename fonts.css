@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Chumbly';
+    src: url(fonts/chumbly.ttf)
+    format('truetype');
+}
+
+@font-face {
+    font-family: 'Chunq';
+    src: url(fonts/Chunq.ttf)
+    format('truetype');
+}

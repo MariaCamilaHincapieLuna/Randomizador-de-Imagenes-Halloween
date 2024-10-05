@@ -1,0 +1,107 @@
+[
+    {
+        "imagen": "imgs/fhs/freddy.png",
+        "nombre": "Freddy"
+    },
+    {
+        "imagen": "imgs/fhs/fred.png",
+        "nombre": "Fred"
+    },
+    {
+        "imagen": "imgs/fhs/chica.png",
+        "nombre": "Chica (Ann)"
+    },
+    {
+        "imagen": "imgs/fhs/bonnie.png",
+        "nombre": "Bonnie"
+    },
+    {
+        "imagen": "imgs/fhs/aiden.png",
+        "nombre": "Foxy (Aiden)"
+    },
+    {
+        "imagen": "imgs/fhs/meg.png",
+        "nombre": "Meg"
+    },
+    {
+        "imagen": "imgs/fhs/joy.png",
+        "nombre": "Foxy (Aiden)"
+    },
+    {
+        "imagen": "imgs/fhs/bon.png",
+        "nombre": "Bon"
+    },
+    {
+        "imagen": "imgs/fhs/springtrap.png",
+        "nombre": "Spring"
+    },
+    {
+        "imagen": "imgs/fhs/mai.png",
+        "nombre": "Mai"
+    },
+    {
+        "imagen": "imgs/fhs/puppet.png",
+        "nombre": "Puppet"
+    },
+    {
+        "imagen": "imgs/fhs/usagui.png",
+        "nombre": "Usagui"
+    },
+    {
+        "imagen": "imgs/fhs/loon.png",
+        "nombre": "Loon"
+    },
+    {
+        "imagen": "imgs/fhs/deuz.png",
+        "nombre": "Deuz"
+    },
+    {
+        "imagen": "imgs/fhs/maggie.png",
+        "nombre": "Maggie"
+    },
+    {
+        "imagen": "imgs/fhs/oxy.png",
+        "nombre": "Oxy"
+    },
+    {
+        "imagen": "imgs/fhs/onnie.png",
+        "nombre": "Onnie"
+    },
+    {
+        "imagen": "imgs/fhs/toddy.png",
+        "nombre": "Toddy"
+    },
+    {
+        "imagen": "imgs/fhs/owynn.png",
+        "nombre": "Owynn"
+    },
+    {
+        "imagen": "imgs/fhs/cami.png",
+        "nombre": "Cami"
+    },
+    {
+        "imagen": "imgs/fhs/towntrap.png",
+        "nombre": "Towntrap"
+    },
+    {
+        "imagen": "imgs/fhs/eak.png",
+        "nombre": "Eak"
+    },
+    {
+        "imagen": "imgs/fhs/abby.png",
+        "nombre": "Abby"
+    },
+    {
+        "imagen": "imgs/fhs/lily.png",
+        "nombre": "Lily"
+    },
+    {
+        "imagen": "imgs/fhs/felix.png",
+        "nombre": "Felix"
+    },
+    {
+        "imagen": "imgs/fhs/fede.png",
+        "nombre": "Fede"
+    }
+    
+]

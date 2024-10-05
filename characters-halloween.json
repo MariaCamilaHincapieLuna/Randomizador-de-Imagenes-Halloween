@@ -1,0 +1,398 @@
+[
+    {
+        "imagen": "imgs/halloween/jack.png",
+        "nombre": "jack"
+    },
+    {
+        "imagen": "imgs/halloween/sally.png",
+        "nombre": "Sally"
+    },
+    {
+        "imagen": "imgs/halloween/beetlejuice.png",
+        "nombre": "Beetlejuice"
+    },
+    {
+        "imagen": "imgs/halloween/oogiebbogie.png",
+        "nombre": "Oogie Boogie"
+    },
+    {
+        "imagen": "imgs/halloween/victorvandort.png",
+        "nombre": "Victor Van Dort"
+    },
+    {
+        "imagen": "imgs/halloween/emily.png",
+        "nombre": "Emily"
+    },
+    {
+        "imagen": "imgs/halloween/edward.png",
+        "nombre": "Edward Manos de Tijeras"
+    },
+    {
+        "imagen": "imgs/halloween/alicia.png",
+        "nombre": "Alicia"
+    },
+    {
+        "imagen": "imgs/halloween/sombrerero.png",
+        "nombre": "El Sombrerero Loco"
+    },
+    {
+        "imagen": "imgs/halloween/reinadecorazones.png",
+        "nombre": "La Reina de Corazones"
+    },
+    {
+        "imagen": "imgs/halloween/reinablanca.png",
+        "nombre": "La Reina Blanca"
+    },
+    {
+        "imagen": "imgs/halloween/gatosonriente.png",
+        "nombre": "El Gato Sonriente"
+    },
+    {
+        "imagen": "imgs/halloween/conejoblanco.png",
+        "nombre": "El Conejo Blanco"
+    },
+    {
+        "imagen": "imgs/halloween/jasonvoorhees.png",
+        "nombre": "Jason Voorhees"
+    },
+    {
+        "imagen": "imgs/halloween/michaelmyers.png",
+        "nombre": "Michael Myers"
+    },
+    {
+        "imagen": "imgs/halloween/slenderman.png",
+        "nombre": "Slenderman"
+    },
+    {
+        "imagen": "imgs/halloween/willywonka.png",
+        "nombre": "Willy Wonka"
+    },
+    {
+        "imagen": "imgs/halloween/oompallompa.png",
+        "nombre": "Oompa Llompa"
+    },
+    {
+        "imagen": "imgs/halloween/winifredsanderson.png",
+        "nombre": "Winifred Sanderson"
+    },
+    {
+        "imagen": "imgs/halloween/sarahsanderson.png",
+        "nombre": "Sarah Sanderson"
+    },
+    {
+        "imagen": "imgs/halloween/marysanderson.png",
+        "nombre": "Mary Sanderson"
+    },
+    {
+        "imagen": "imgs/halloween/billybutcherson.png",
+        "nombre": "Billy Butcherson"
+    },
+    {
+        "imagen": "imgs/halloween/draculaura.png",
+        "nombre": "Draculaura"
+    },
+    {
+        "imagen": "imgs/halloween/clawdeenwolf.png",
+        "nombre": "Clawdeen Wolf"
+    },
+    {
+        "imagen": "imgs/halloween/frankiestein.png",
+        "nombre": "Frankie Stein"
+    },
+    {
+        "imagen": "imgs/halloween/cleodenile.png",
+        "nombre": "Cleo Denile"
+    },
+    {
+        "imagen": "imgs/halloween/deucegorgon.png",
+        "nombre": "Deuce Gorgon"
+    },
+    {
+        "imagen": "imgs/halloween/lagoonablue.png",
+        "nombre": "Lagoona Blue"
+    },
+    {
+        "imagen": "imgs/halloween/operetta.png",
+        "nombre": "Operetta"
+    },
+    {
+        "imagen": "imgs/halloween/heathburns.png",
+        "nombre": "Heath burns"
+    },
+    {
+        "imagen": "imgs/halloween/clawdwolf.png",
+        "nombre": "Clawd Wolf"
+    },
+    {
+        "imagen": "imgs/halloween/ghouliayelps.png",
+        "nombre": "Ghoulia Yelps"
+    },
+    {
+        "imagen": "imgs/halloween/abbeybominable.png",
+        "nombre": "Abbey Bominable"
+    },
+    {
+        "imagen": "imgs/halloween/cattynoir.png",
+        "nombre": "Catty Noir"
+    },
+    {
+        "imagen": "imgs/halloween/venusmcflytrap.png",
+        "nombre": "Venus Mcflytrap"
+    },
+    {
+        "imagen": "imgs/halloween/spectravondergeist.png",
+        "nombre": "spectra Vondergeist"
+    },
+    {
+        "imagen": "imgs/halloween/it.png",
+        "nombre": "It"
+    },
+    {
+        "imagen": "imgs/halloween/saw.png",
+        "nombre": "Saw"
+    },
+    {
+        "imagen": "imgs/halloween/chucky.png",
+        "nombre": "Chucky"
+    },
+    {
+        "imagen": "imgs/halloween/freddykrueger.png",
+        "nombre": "Freddy Krueger"
+    },
+    {
+        "imagen": "imgs/halloween/merlina.png",
+        "nombre": "Merlina Addams"
+    },
+    {
+        "imagen": "imgs/halloween/morticiaaddams.png",
+        "nombre": "MorticiaAddams"
+    },
+    {
+        "imagen": "imgs/halloween/gomezaddams.png",
+        "nombre": "Gomez Addams"
+    },
+    {
+        "imagen": "imgs/halloween/huggywuggy.png",
+        "nombre": "Huggy Wuggy"
+    },
+    {
+        "imagen": "imgs/halloween/poppy.png",
+        "nombre": "Poppy"
+    },
+    {
+        "imagen": "imgs/halloween/mommylonglegs.png",
+        "nombre": "Mommy Longlegs"
+    },
+    {
+        "imagen": "imgs/halloween/catnap.png",
+        "nombre": "Catnap"
+    },
+    {
+        "imagen": "imgs/halloween/blancanieves.png",
+        "nombre": "Blancanieves"
+    },
+    {
+        "imagen": "imgs/halloween/reinamalvada.png",
+        "nombre": "La Reina Malvada"
+    },
+    {
+        "imagen": "imgs/halloween/cenicienta.png",
+        "nombre": "Cenicienta"
+    },
+    {
+        "imagen": "imgs/halloween/peterpan.png",
+        "nombre": "Peter Pan"
+    },
+    {
+        "imagen": "imgs/halloween/tinkerbell.png",
+        "nombre": "Tinkerbell"
+    },
+    {
+        "imagen": "imgs/halloween/wendy.png",
+        "nombre": "Wendy"
+    },
+    {
+        "imagen": "imgs/halloween/capitangarfio.png",
+        "nombre": "El Capitan Garfio"
+    },
+    {
+        "imagen": "imgs/halloween/aurora.png",
+        "nombre": "Aurora"
+    },
+    {
+        "imagen": "imgs/halloween/malefica.png",
+        "nombre": "Malefica"
+    },
+    {
+        "imagen": "imgs/halloween/bella.png",
+        "nombre": "Bella"
+    },
+    {
+        "imagen": "imgs/halloween/bestia.png",
+        "nombre": "Bestia"
+    },
+    {
+        "imagen": "imgs/halloween/ariel.png",
+        "nombre": "Ariel"
+    },
+    {
+        "imagen": "imgs/halloween/ursula.png",
+        "nombre": "Ursula"
+    },
+    {
+        "imagen": "imgs/halloween/aladdin.png",
+        "nombre": "Aladdin"
+    },
+    {
+        "imagen": "imgs/halloween/jafar.png",
+        "nombre": "Jafar"
+    },
+    {
+        "imagen": "imgs/halloween/jasmine.png",
+        "nombre": "jasmine"
+    },
+    {
+        "imagen": "imgs/halloween/pocahontas.png",
+        "nombre": "Pocahontas"
+    },
+    {
+        "imagen": "imgs/halloween/hades.png",
+        "nombre": "hades"
+    },
+    {
+        "imagen": "imgs/halloween/hercules.png",
+        "nombre": "Hercules"
+    },
+    {
+        "imagen": "imgs/halloween/megara.png",
+        "nombre": "megara"
+    },
+    {
+        "imagen": "imgs/halloween/lishang.png",
+        "nombre": "Li Shang"
+    },
+    {
+        "imagen": "imgs/halloween/famulan.png",
+        "nombre": "Fa Mulan"
+    },
+    {
+        "imagen": "imgs/halloween/cuzco.png",
+        "nombre": "Cuzco"
+    },
+    {
+        "imagen": "imgs/halloween/Yzma.png",
+        "nombre": "yzma"
+    },
+    {
+        "imagen": "imgs/halloween/milojamesthatch.png",
+        "nombre": "Milo James Thatch"
+    },
+    {
+        "imagen": "imgs/halloween/kidanedakh.png",
+        "nombre": "Kida Nedakh"
+    },
+    {
+        "imagen": "imgs/halloween/jimhawkins.png",
+        "nombre": "Jim Hawckins"
+    },
+    {
+        "imagen": "imgs/halloween/tiana.png",
+        "nombre": "Tiana"
+    },
+    {
+        "imagen": "imgs/halloween/naveen.png",
+        "nombre": "Principe Naveen"
+    },
+    {
+        "imagen": "imgs/halloween/drfacilier.png",
+        "nombre": "Dr. Facilier"
+    },
+    {
+        "imagen": "imgs/halloween/flynnrider.png",
+        "nombre": "Flynn Rider"
+    },
+    {
+        "imagen": "imgs/halloween/rapunzel.png",
+        "nombre": "Rapunzel"
+    },
+    {
+        "imagen": "imgs/halloween/madregothel.png",
+        "nombre": "Madre Gothel"
+    },
+    {
+        "imagen": "imgs/halloween/maui.png",
+        "nombre": "Maui"
+    },
+    {
+        "imagen": "imgs/halloween/moana.png",
+        "nombre": "Moana"
+    },
+    {
+        "imagen": "imgs/halloween/ana.png",
+        "nombre": "Ana"
+    },
+    {
+        "imagen": "imgs/halloween/elsa.png",
+        "nombre": "Elsa"
+    },
+    {
+        "imagen": "imgs/halloween/mirabelmadrigal.png",
+        "nombre": "Mirabel Madrigal"
+    },
+    {
+        "imagen": "imgs/halloween/brunomadrigal.png",
+        "nombre": "Bruno Madrigal"
+    },
+    {
+        "imagen": "imgs/halloween/merida.png",
+        "nombre": "merida"
+    },
+    {
+        "imagen": "imgs/halloween/stitch.png",
+        "nombre": "Stitch"
+    },
+    {
+        "imagen": "imgs/halloween/pomni.png",
+        "nombre": "Pomni"
+    },
+    {
+        "imagen": "imgs/halloween/jax.png",
+        "nombre": "Jax"
+    },
+    {
+        "imagen": "imgs/halloween/ragatha.png",
+        "nombre": "Ragatha"
+    },
+    {
+        "imagen": "imgs/halloween/gangle.png",
+        "nombre": "Gangle"
+    },
+    {
+        "imagen": "imgs/halloween/kinger.png",
+        "nombre": "Kinger"
+    },
+    {
+        "imagen": "imgs/halloween/caine.png",
+        "nombre": "Caine"
+    },
+    {
+        "imagen": "imgs/halloween/scoobydoo.png",
+        "nombre": "Scooby Doo"
+    },
+    {
+        "imagen": "imgs/halloween/shaggyrogers.png",
+        "nombre": "Shaggy Rogers"
+    },
+    {
+        "imagen": "imgs/halloween/daphneblake.png",
+        "nombre": "Daphne Blake"
+    },
+    {
+        "imagen": "imgs/halloween/fredjones.png",
+        "nombre": "Fred Jones"
+    },
+    {
+        "imagen": "imgs/halloween/velmadinkley.png",
+        "nombre": "Velma Dinkley"
+    }
+]

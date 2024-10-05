@@ -1,0 +1,137 @@
+body, html {
+    background-image: linear-gradient(to top, #af50e5, #8a0bd2, #000);
+    scrollbar-width: none;
+    height: 100vh;
+    overflow: hidden;
+}
+
+h1{
+    font-family: 'Chunq';
+    color: #000;
+    position: relative;
+    font-size: 50px;
+    margin: 0;
+    -webkit-text-stroke: 1px #ff7400;
+}
+
+span {
+    color: #ff7400;
+    -webkit-text-stroke: 1px #000;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    font-size: 25px;
+}
+
+button {
+    position: absolute;
+    z-index: 10;
+    background: none;
+    margin: 30% 43%;
+    border: none;
+    cursor: pointer;
+}
+
+button img {
+    height: 200px;
+    transition: transform 0.3s ease;
+    filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.5));
+}
+
+button img:hover {
+    transform: scale(1.05);
+}
+
+    
+.title {
+    text-align: center;
+    margin: 0 20px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0 200px;
+    position: relative;
+    height: auto;
+    /* border: 10px dashed #2e2e2e; */
+}
+.card{
+    width: 50%;
+    color: #fff;
+    text-transform: capitalize;
+}
+.card img {
+    width: 450px;
+    height: 450px;
+    border-radius: 20px;
+    border: 10px solid #000;
+    background-image: linear-gradient(#ff7400, #ff8d00, #ffa700);
+}
+
+.cruz {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cruz img{
+    width: 100px;
+}
+
+@media (max-width: 768px){
+    body, html {
+        overflow: scroll;
+    }
+
+    .cards{
+        flex-direction: column;
+        margin: 0;
+    }
+    .card{
+        width: 100%;
+        margin: 50px 0;
+    }
+    
+    button{
+        margin: 40% 60%;
+    }
+}
+
+/**ELEMENTOS FONDO**/
+
+.element-bg{
+    position: absolute;
+    width: 60%;
+    height: 150%;
+    z-index: 10;
+    filter: drop-shadow(4px 4px 10px rgb(255, 255, 255, 0.5));
+}
+
+.dot {
+    position: absolute;
+    margin: -100px 1400px;
+    height: 300px;
+    width: 300px;
+    background-color: #ccc;
+    border-radius: 50%;
+    display: inline-block;
+    filter: drop-shadow(4px 4px 10px rgb(255, 255, 255, 0.5));
+}
+
+.tree {
+    margin: -400px -500px;
+}
+
+.tree2 {
+    margin: -400px 1200px;
+}
